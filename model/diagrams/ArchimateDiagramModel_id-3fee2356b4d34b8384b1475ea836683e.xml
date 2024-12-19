@@ -129,4 +129,16 @@
         xsi:type="archimate:Capability"
         href="Capability_id-019ac3db19904359b185f0191ecdadd0.xml#id-019ac3db19904359b185f0191ecdadd0"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7d305e65507843b9985c0c15dbba51a9">
+    <bounds
+        x="204"
+        y="120"
+        width="120"
+        height="272"/>
+    <archimateElement
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_id-f528991cb86b48a59d42d7e616024caa.xml#id-f528991cb86b48a59d42d7e616024caa"/>
+  </children>
 </archimate:ArchimateDiagramModel>
