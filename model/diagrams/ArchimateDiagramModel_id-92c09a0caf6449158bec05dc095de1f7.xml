@@ -14,4 +14,28 @@
         width="400"
         height="140"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c02780e113644bedad113fe09bd92d5b">
+    <bounds
+        x="358"
+        y="484"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_id-bb6912244efb43d184af68699a70d33d.xml#id-bb6912244efb43d184af68699a70d33d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-81601f0edb944d1e9eebd3c72426e831">
+    <bounds
+        x="438"
+        y="600"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-1da5509fa8904e5bb976ff51018ce002.xml#id-1da5509fa8904e5bb976ff51018ce002"/>
+  </children>
 </archimate:ArchimateDiagramModel>
