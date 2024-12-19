@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="02_Vista_Cristian"
+    id="id-92c09a0caf6449158bec05dc095de1f7">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-a90f62c0687844d8abdad6283c8dfb91"
+      name="Vista de Cristian"
+      textAlignment="1">
+    <bounds
+        x="370"
+        y="263"
+        width="400"
+        height="140"/>
+  </children>
+</archimate:ArchimateDiagramModel>
