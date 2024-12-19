@@ -39,4 +39,38 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-3de0956a959640d0a951cb2252ffde64.xml#id-3de0956a959640d0a951cb2252ffde64"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1767e9ff019f4dc1a1995013ac6243d2">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-922138637eb64bc6bb7ae1f264712024"
+        source="id-1767e9ff019f4dc1a1995013ac6243d2"
+        target="id-44068dc949004b13806f419946de3126">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-d0e32f7522704a89937db5985f1ec46d.xml#id-d0e32f7522704a89937db5985f1ec46d"/>
+    </sourceConnections>
+    <bounds
+        x="174"
+        y="551"
+        width="343"
+        height="326"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-44068dc949004b13806f419946de3126"
+        targetConnections="id-922138637eb64bc6bb7ae1f264712024">
+      <bounds
+          x="96"
+          y="120"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:TechnologyFunction"
+          href="TechnologyFunction_id-42ecf5408d5342cba7dbfe919d9502d4.xml#id-42ecf5408d5342cba7dbfe919d9502d4"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-9ad223d8990f431a939e07bf21b2d89a.xml#id-9ad223d8990f431a939e07bf21b2d89a"/>
+  </children>
 </archimate:ArchimateDiagramModel>
